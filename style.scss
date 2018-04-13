@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-	background: $white;
+	background: $darkgrey;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
@@ -33,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
